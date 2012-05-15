@@ -1,0 +1,413 @@
+{ "docs": [
+  {
+    "teamname": "Euskaltel-Euskadi",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Miguel Madariga", 
+    "code": "EUS", 
+    "founded": "1994", 
+  }, 
+  {
+    "teamname": "Fassa Bortolo",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Giancarlo Ferretti", 
+    "code": "FAB", 
+    "founded": "2000", 
+  }, 
+  {
+   "teamname": "Ceramica_Panaria-Navigare",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Roberto Reverberi", 
+    "code": "PAN", 
+    "founded": "1994", 
+
+  }, 
+  {
+    "teamname": "Cofidis Le Credit par Telephone",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Eric Boyer", 
+    "code": "COF", 
+    "founded": "1997", 
+   
+  }, 
+  {
+    "teamname": "Team CSC",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Bjarne Riis", 
+    "code": "CSC", 
+    "founded": "2001", 
+    
+  },
+  {  
+    "teamname": "OTC Doors-Lauretana",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Pier Giovanni Baldini", 
+    "code": "OTC", 
+    "founded": "2006", 
+    
+  }, 
+  {
+    "teamname": "Team Milram",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Gerry van Gerwen", 
+    "code": "MRM", 
+    "founded": "2006", 
+    
+  },
+  {  
+    "teamname": "Carrera",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Davide Boifava", 
+    "code": "CAR", 
+    "founded": "1984", 
+    
+  }, 
+  {
+  "teamname": "Tinkoff Credit Systems",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Stefano Feltrin", 
+    "code": "TCS", 
+    "founded": "2007", 
+    
+  }, 
+  {
+  "teamname": "Lampre-Fondital",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Giuseppe Saronni", 
+    "code": "LAM", 
+    "founded": "1992", 
+    
+  }, 
+  {
+  "teamname": "Team Flexpoint",
+    "status": "UCI Womens Team", 
+    "discipline": "Road", 
+    "manager": "Jean van Poppel", 
+    "code": "FLX", 
+    "founded": "2005", 
+    
+  }, 
+  {
+    "teamname": "Acque & Sapone Mokambo",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Franco Gini", 
+    "code": "ASA", 
+    "founded": "2004", 
+    "teamname": "Acque & Sapone Mokambo"
+  }, 
+  {
+    "teamname": "Skil-Shimano",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Arend Scheppink", 
+    "code": "SKS", 
+    "founded": "2005", 
+
+  }, 
+  {
+    "teamname": "Karpin-Galicia",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Rodrigo Rodriguez", 
+    "code": "KAG", 
+    "founded": "2007", 
+  }, 
+  {
+    "teamname": "Miche",
+    "status": "Continental", 
+    "discipline": "Road", 
+    "manager": "Mauro Tognaccini", 
+    "code": "MIE", 
+    "founded": "2003", 
+
+  }, 
+  {
+    "teamname": "Caisse d'Epargne",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Jose Miguel Echavarri", 
+    "code": "GCE", 
+    "founded": "2004", 
+
+  }, 
+  {
+    "teamname": "Sem-France Loire",
+    "status": "Retired", 
+    "discipline": "Cyclo-cross", 
+    "manager": "Jean de Gribaldy", 
+    "code": "SEM", 
+    "founded": "1980", 
+
+  }, 
+  {
+    "teamname": "Telekom Malaysia Cycling Team",
+    "status": "UCI Continental Team", 
+    "discipline": "Road", 
+    "manager": "Radek Bialy", 
+    "code": "TM", 
+    "founded": "2000", 
+
+  }, 
+  {
+    "teamname": "PDM-Concorde",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Jan Gisbers", 
+    "code": "PDM", 
+    "founded": "1986", 
+
+  }, 
+  {
+    "teamname": "Astana",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Johan Bruyneel", 
+    "code": "AST", 
+    "founded": "2007", 
+
+  }, 
+  {
+    "teamname": "Linda McCartney Racing Team",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Julian Clark", 
+    "code": "LIN", 
+    "founded": "1998", 
+
+  }, 
+  {
+    "teamname": "La Francaise des Jeux",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Marc Madiot", 
+    "code": "FDJ", 
+    "founded": "1997", 
+
+  }, 
+  {
+    "teamname": "Black Key Bulls",
+    "status": "Retired", 
+    "discipline": "Track", 
+    "manager": "David Choinacky", 
+    "code": "BKB", 
+    "founded": "2006", 
+
+  }, 
+  {
+    "teamname": "recycling.co.uk Pro Cycling Team",
+    "status": "Active", 
+    "discipline": "Track", 
+    "manager": "John Herety", 
+    "code": "RCY", 
+    "founded": "2004", 
+
+  }, 
+  {
+    "teamname": "Team Maxbo Bianchi",
+    "status": "Continental", 
+    "discipline": "Road", 
+    "manager": "Birger Hungerholdt", 
+    "code": "TMB", 
+    "founded": "2005", 
+
+  }, 
+  {
+    "teamname": "Liquigas",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Roberto Amadio", 
+    "code": "LIQ", 
+    "founded": "1999", 
+
+  }, 
+  {
+    "teamname": "Skil-Sem",
+    "status": "Professional", 
+    "discipline": "Road", 
+    "manager": "Jean Gribaldy", 
+    "code": "SKIL", 
+    "founded": "1984", 
+
+  }, 
+  {
+    "teamname": "Bouygues Telecom",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Jean Bernaudeau", 
+    "code": "BTL", 
+    "founded": "2005", 
+
+  }, 
+  {
+    "teamname": "Festina",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Miguel Moreno Cachinero", 
+    "code": "FES", 
+    "founded": "1989", 
+
+  }, 
+  {
+    "teamname": "Team Wiesenhof-Felt",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Raphael Schweda", 
+    "code": "WIE", 
+    "founded": "2006", 
+
+  }, 
+  {
+    "teamname": "Agritubel",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "David Fornes", 
+    "code": "AGR", 
+    "founded": "2005", 
+
+  }, 
+  {
+    "teamname": "Team Gerolsteiner",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Reimund Dietzen", 
+    "code": "GST", 
+    "founded": "1998", 
+
+  }, 
+  {
+    "teamname": "Gitane-Campagnolo",
+    "status": "Retired", 
+    "discipline": "Cyclo-cross", 
+    "manager": "Andre Desvrages", 
+    "code": "GIC", 
+    "founded": "1972", 
+
+  }, 
+  {
+    "teamname": "Renault-Elf-Gitane",
+    "status": "Retired", 
+    "discipline": "Cyclo-cross", 
+    "manager": "Cyrille_Guimard", 
+    "code": "REN", 
+    "founded": "1978", 
+
+  }, 
+  {
+    "teamname": "Andaluca-Cajasur",
+    "status": "Professional Continental", 
+    "discipline": "Road", 
+    "manager": "Antonio Cabello", 
+    "code": "ACA", 
+    "founded": "2005", 
+
+  }, 
+  {
+    "teamname": "Kas",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Lukasz Martynski", 
+    "code": "KAS", 
+    "founded": "1958", 
+
+  }, 
+  {
+    "teamname": "Team High Road",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Bob Stapleton", 
+    "code": "THR", 
+    "founded": "1991", 
+
+  }, 
+  {
+    "teammanager": "Garry Beckett",
+    "status": "Retired", 
+    "discipline": "Track", 
+    "code": "PCA", 
+    "founded": "2006", 
+    "teamname": "Plowman Craven Evans Cycles", 
+
+  }, 
+  {
+    "teammanager": "Dany Schoonbaert",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "code": "LBL", 
+    "founded": "2006", 
+    "teamname": "Lotto-Belisol Ladiesteam", 
+
+  }, 
+  {
+    "teamname": "Rabobank",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Erik_Breukink", 
+    "code": "RAB", 
+    "founded": "1996", 
+
+  }, 
+  {
+    "teamname": "Rietumu Banka - Riga", 
+    "status": "UCI Continental", 
+    "discipline": "Road", 
+    "manager": "Igo Japin", 
+    "code": "RBR", 
+    "teammanager": "Vitnlijs Smirnovs"
+  }, 
+  {
+    "teamname": "Bianchi",
+    "status": "Retired", 
+    "discipline": "Road", 
+    "manager": "Jacques_Hanegraaf", 
+    "code": "TBI", 
+    "founded": "1899", 
+
+  }, 
+  {
+    "teamname": "CCC Polsat (Polkowice)",
+    "status": "UCI Continental", 
+    "discipline": "Road", 
+    "code": "CCC", 
+    "techdirector": "Jacek Bodyk", 
+    "founded": "2002", 
+
+  }, 
+  {
+    "teamname": "LeTua Cycling Team",
+    "status": "UCI Continental Teams", 
+    "discipline": "Road", 
+    "manager": "Yassin Shukor", 
+    "code": "L2A", 
+    "founded": "2004", 
+
+  }, 
+  {
+    "teamname": "Unibet.com",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Koen Terryn", 
+    "code": "UNI", 
+    "founded": "2007", 
+
+  }, 
+  {
+    "teamname": "Credit Agricole",
+    "status": "ProTour", 
+    "discipline": "Road", 
+    "manager": "Roger Legeay", 
+    "code": "C.A", 
+    "founded": "1998", 
+
+  }
+  
+]}
