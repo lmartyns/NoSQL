@@ -11,3 +11,17 @@ ddoc.views.sta = {
   },
   reduce: "_count"
 }
+
+ddoc.views.spec = {
+  map: function(doc) {
+       emit(doc.discipline);
+  },
+  reduce: "_count"
+}
+
+ddoc.views.zal = {
+  map: function(doc) {
+       emit(doc.founded);
+  },
+  reduce: "_count"
+}
