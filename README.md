@@ -81,3 +81,17 @@ Odpowiedź:
 		{"id":"3a6700edfbcba5740e567122d3021303","key":"Track","value":null},
 		{"id":"3a6700edfbcba5740e567122d3026ab1","key":"Track","value":null}
 	]}
+	
+Zaspoły założone w 2000 roku:
+
+	http://sigma.ug.edu.pl:5984/cyclist/_design/app/_view/zal?key="2000"&reduce=false
+	
+Odpowiedz:
+
+	{"total_rows":46,"offset":21,"rows":[
+		{"id":"a1b6b040896f9249c71d099c56000dd7","key":"2000","value":null},
+		{"id":"a1b6b040896f9249c71d099c56009b48","key":"2000","value":null}
+	]}
+	
+MongoDB Map Reduce
+-------------------------------------------------------
