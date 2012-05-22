@@ -33,15 +33,18 @@ Ilość zespołów z licencją ProTour.
 	http://sigma.ug.edu.pl:5984/cyclist/_design/app/_view/sta?key="ProTour"
 Odpowiedź:
 
+```json
 	{"rows":[
 		{"key":null,"value":16}
 	]}
+```
 
 Jakie to zespoły?
 	
 	http://sigma.ug.edu.pl:5984/cyclist/_design/app/_view/sta?key="ProTour"&reduce=false	
 Odpowiedź:
 
+```json
 	{"total_rows":46,"offset":13,"rows":[
 		{"id":"3a6700edfbcba5740e567122d30169da","key":"ProTour","value":null},
 		{"id":"3a6700edfbcba5740e567122d3018506","key":"ProTour","value":null},
@@ -60,36 +63,42 @@ Odpowiedź:
 		{"id":"3a6700edfbcba5740e567122d3029a88","key":"ProTour","value":null},
 		{"id":"3a6700edfbcba5740e567122d3029e96","key":"ProTour","value":null}
 	]}
+```
 
 Zespoły które występują na torze:
 
 	http://sigma.ug.edu.pl:5984/cyclist/_design/app/_view/spec?key="Track"
 	
 Odpowiedź:
-	
+
+```json
 	{"rows":[
 		{"key":null,"value":3}
 	]}
-	
+```
+
 Jakie to zespoły? :
 	
 	http://sigma.ug.edu.pl:5984/cyclist/_design/app/_view/spec?key="Track"&reduce=false
 Odpowiedź:
-	
+
+```json
 	{"total_rows":46,"offset":43,"rows":[
 		{"id":"3a6700edfbcba5740e567122d3020ded","key":"Track","value":null},
 		{"id":"3a6700edfbcba5740e567122d3021303","key":"Track","value":null},
 		{"id":"3a6700edfbcba5740e567122d3026ab1","key":"Track","value":null}
 	]}
-	
+```
+
 Zaspoły założone w 2000 roku:
 
 	http://sigma.ug.edu.pl:5984/cyclist/_design/app/_view/zal?key="2000"&reduce=false
 	
 Odpowiedz:
 
+```json
 	{"total_rows":46,"offset":21,"rows":[
 		{"id":"a1b6b040896f9249c71d099c56000dd7","key":"2000","value":null},
 		{"id":"a1b6b040896f9249c71d099c56009b48","key":"2000","value":null}
 	]}
-	
+```	
